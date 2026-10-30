@@ -1,16 +1,10 @@
-## Hi there 👋
+# Hi, I'm WebForgeDev 👋
 
-<!--
-**WebForgeDev1/WebForgeDev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning software development and exploring how to build projects with GitHub.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning C, Git, and GitHub
+- 📘 Preparing for the GitHub Foundations certification
+- 🤝 Interested in collaborating and learning from others
+- ⚡ Fun fact: I enjoy turning new ideas into projects
 
-- 🔭 I’m currently working on Github Certification
-- 🌱 I’m currently learning CS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting my profile!
